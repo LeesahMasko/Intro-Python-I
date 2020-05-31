@@ -13,7 +13,6 @@ z = "I like turtles!"
 # x is 10, y is 2.25, z is "I like turtles!"
 print('x is %s' % x + ', y is %s' % round(y, 2) + ', z is "%s"' % z)
 
-
 # Use the 'format' string method to print the same thing
 print("x is {}, y is {}, z is {}".format(x, round(y, 2), z))
 
