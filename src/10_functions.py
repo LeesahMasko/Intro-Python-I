@@ -3,7 +3,7 @@
 # YOUR CODE HERE
 def is_even(num):
     if num % 2 == 0:
-        return True
+        print("True!")
 
 # def is_even(num):
 #   return int(num)%2==0
@@ -17,7 +17,7 @@ num = int(num)
 
 # YOUR CODE HERE
 if is_even(num)
-  return "Even!"
+  print("Even!")
     else:
-      return "Odd"
+      print("Odd!")
 
