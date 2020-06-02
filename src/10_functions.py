@@ -16,8 +16,8 @@ num = int(num)
 # Print out "Even!" if the number is even. Otherwise print "Odd"
 
 # YOUR CODE HERE
-if is_even(num)
+if is_even(num):
   print("Even!")
-    else:
-      print("Odd!")
+else:
+  print("Odd!")
 
